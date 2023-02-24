@@ -83,6 +83,7 @@ public class TelephoneProject1 {
                 break;
             default:
                 System.out.println("Incorrect argument");
+                break;
         }
     }
 }
